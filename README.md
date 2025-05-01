@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danishvserv
+- 👋 Hi, I’m Danish 
 - 👀 I’m interested in Fullstack Developer Role
 - 🌱 I’m currently learning Android Development
 - 📫 How to reach me naseemdanish1999@gmail.com
